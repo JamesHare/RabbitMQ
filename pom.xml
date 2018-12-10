@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.jamesmhare</groupId>
+  <artifactId>RabbitMQ</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>RabbitMQ</name>
+  <description>This is a project to hold my knowledge about RabbitMQ.</description>
+  <modules>
+  	<module>RabbitMQ-Server</module>
+  	<module>RabbitMQ-Publisher</module>
+  	<module>RabbitMQ-Subscriber</module>
+  </modules>
+</project>
