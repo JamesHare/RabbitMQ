@@ -4,7 +4,7 @@ package com.jamesmhare.rabbitmqsubscriber.BasicReceiver;
  * This serves as a factory for creating a new instance of the
  * {@link BasicReceiverImpl}
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public class BasicReceiverFactory {

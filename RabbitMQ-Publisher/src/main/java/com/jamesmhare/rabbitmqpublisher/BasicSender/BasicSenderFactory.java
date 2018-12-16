@@ -4,7 +4,7 @@ package com.jamesmhare.rabbitmqpublisher.BasicSender;
  * This serves as a factory for creating a new instance of the
  * {@link BasicSenderImpl}
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public class BasicSenderFactory {

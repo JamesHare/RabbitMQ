@@ -11,7 +11,7 @@ import com.rabbitmq.client.ConnectionFactory;
 /**
  * This serves as an implementation of the {@link BasicSender} interface.
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public class BasicSenderImpl implements BasicSender {

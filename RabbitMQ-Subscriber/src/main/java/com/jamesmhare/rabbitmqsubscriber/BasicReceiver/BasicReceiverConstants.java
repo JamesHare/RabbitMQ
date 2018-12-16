@@ -4,7 +4,7 @@ package com.jamesmhare.rabbitmqsubscriber.BasicReceiver;
  * This is a class to hold the constants for the {@link BasicReceiverImpl}
  * class.
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public class BasicReceiverConstants {

@@ -4,7 +4,7 @@ package com.jamesmhare.rabbitmqsubscriber.BasicReceiver;
  * This serves as an interface for a basic receiver which subscribes to a
  * messaging queue to receive messages from the publisher.
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public interface BasicReceiver {

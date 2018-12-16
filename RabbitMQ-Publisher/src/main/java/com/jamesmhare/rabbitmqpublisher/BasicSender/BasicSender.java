@@ -2,9 +2,9 @@ package com.jamesmhare.rabbitmqpublisher.BasicSender;
 
 /**
  * This serves as an interface for a basic sender which publishes to a messaging
- * queue to send messages any receivers subscribed to the message queue.
+ * queue to send messages to any receivers subscribed to the message queue.
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public interface BasicSender {

@@ -11,7 +11,7 @@ import com.rabbitmq.client.DeliverCallback;
 /**
  * This serves as an implementation of the {@link BasicReceiver} interface.
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public class BasicReceiverImpl implements BasicReceiver {

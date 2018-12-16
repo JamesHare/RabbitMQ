@@ -3,7 +3,7 @@ package com.jamesmhare.rabbitmqpublisher.BasicSender;
 /**
  * This is a class to hold the constants for the {@link BasicSenderImpl} class.
  * 
- * @author jameshare
+ * @author James Hare
  *
  */
 public class BasicSenderConstants {
